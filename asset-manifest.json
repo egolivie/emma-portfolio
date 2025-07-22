@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/emma-portfolio/static/css/main.d9182fb2.css",
+    "main.css": "/emma-portfolio/static/css/main.6335796c.css",
     "main.js": "/emma-portfolio/static/js/main.7220ee27.js",
     "reactPlayerHls.js": "/emma-portfolio/static/js/reactPlayerHls.e3bebdcf.chunk.js",
     "reactPlayerDash.js": "/emma-portfolio/static/js/reactPlayerDash.8577b3e5.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/416.a03bf72f.chunk.js": "/emma-portfolio/static/js/416.a03bf72f.chunk.js",
     "static/js/933.8620549b.chunk.js": "/emma-portfolio/static/js/933.8620549b.chunk.js",
     "index.html": "/emma-portfolio/index.html",
-    "main.d9182fb2.css.map": "/emma-portfolio/static/css/main.d9182fb2.css.map",
+    "main.6335796c.css.map": "/emma-portfolio/static/css/main.6335796c.css.map",
     "main.7220ee27.js.map": "/emma-portfolio/static/js/main.7220ee27.js.map",
     "reactPlayerHls.e3bebdcf.chunk.js.map": "/emma-portfolio/static/js/reactPlayerHls.e3bebdcf.chunk.js.map",
     "reactPlayerDash.8577b3e5.chunk.js.map": "/emma-portfolio/static/js/reactPlayerDash.8577b3e5.chunk.js.map",
@@ -29,7 +29,7 @@
     "933.8620549b.chunk.js.map": "/emma-portfolio/static/js/933.8620549b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9182fb2.css",
+    "static/css/main.6335796c.css",
     "static/js/main.7220ee27.js"
   ]
 }
