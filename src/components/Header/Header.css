@@ -1,0 +1,34 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: transparent;
+}
+
+.header__left h3 {
+  margin: 0;
+  font-size: 1.6rem;
+  color: #6d3a64;
+}
+
+.header__left .link {
+  text-decoration: none;
+  color: inherit;
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 1rem 1.5rem;
+  }
+
+  .header__left h3 {
+    font-size: 1.3rem;
+  }
+}
+
