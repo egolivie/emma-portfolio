@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/emma-portfolio/static/css/main.663b6d39.css",
-    "main.js": "/emma-portfolio/static/js/main.ae22e7f9.js",
+    "main.css": "/emma-portfolio/static/css/main.7e6d4a9f.css",
+    "main.js": "/emma-portfolio/static/js/main.fa351390.js",
     "reactPlayerHls.js": "/emma-portfolio/static/js/reactPlayerHls.e3bebdcf.chunk.js",
     "reactPlayerDash.js": "/emma-portfolio/static/js/reactPlayerDash.8577b3e5.chunk.js",
     "reactPlayerMux.js": "/emma-portfolio/static/js/reactPlayerMux.5c4ed6e2.chunk.js",
@@ -14,8 +14,8 @@
     "static/js/416.a03bf72f.chunk.js": "/emma-portfolio/static/js/416.a03bf72f.chunk.js",
     "static/js/933.8620549b.chunk.js": "/emma-portfolio/static/js/933.8620549b.chunk.js",
     "index.html": "/emma-portfolio/index.html",
-    "main.663b6d39.css.map": "/emma-portfolio/static/css/main.663b6d39.css.map",
-    "main.ae22e7f9.js.map": "/emma-portfolio/static/js/main.ae22e7f9.js.map",
+    "main.7e6d4a9f.css.map": "/emma-portfolio/static/css/main.7e6d4a9f.css.map",
+    "main.fa351390.js.map": "/emma-portfolio/static/js/main.fa351390.js.map",
     "reactPlayerHls.e3bebdcf.chunk.js.map": "/emma-portfolio/static/js/reactPlayerHls.e3bebdcf.chunk.js.map",
     "reactPlayerDash.8577b3e5.chunk.js.map": "/emma-portfolio/static/js/reactPlayerDash.8577b3e5.chunk.js.map",
     "reactPlayerMux.5c4ed6e2.chunk.js.map": "/emma-portfolio/static/js/reactPlayerMux.5c4ed6e2.chunk.js.map",
@@ -29,7 +29,7 @@
     "933.8620549b.chunk.js.map": "/emma-portfolio/static/js/933.8620549b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.663b6d39.css",
-    "static/js/main.ae22e7f9.js"
+    "static/css/main.7e6d4a9f.css",
+    "static/js/main.fa351390.js"
   ]
 }
