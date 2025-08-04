@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/emma-portfolio/static/css/main.ac358419.css",
-    "main.js": "/emma-portfolio/static/js/main.2db3b65f.js",
+    "main.js": "/emma-portfolio/static/js/main.86801053.js",
     "index.html": "/emma-portfolio/index.html",
     "main.ac358419.css.map": "/emma-portfolio/static/css/main.ac358419.css.map",
-    "main.2db3b65f.js.map": "/emma-portfolio/static/js/main.2db3b65f.js.map"
+    "main.86801053.js.map": "/emma-portfolio/static/js/main.86801053.js.map"
   },
   "entrypoints": [
     "static/css/main.ac358419.css",
-    "static/js/main.2db3b65f.js"
+    "static/js/main.86801053.js"
   ]
 }
